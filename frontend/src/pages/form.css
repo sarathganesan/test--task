@@ -1,0 +1,263 @@
+form {
+  
+    align-self: start;
+    text-align: start;
+    margin-top: 50px;
+  }
+  
+  .firstname{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+  }
+  
+  label {
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+
+  
+  p {
+    color: red;
+    margin-top: 5px;
+    font-size: 14px;
+  }
+
+  
+
+
+  .form-div-1{
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+  }
+
+  .name-input{
+    margin-left: 50px;
+    height: 30px;
+    width: 450px;
+  }
+
+  .dateofbirthorage-div{
+    margin-left: 30px;
+   
+    
+  }
+
+  .dateofbirthorage-label{
+    width: 120px;
+  }
+
+  .dateofbirthorage-input{
+    margin-left: 20px;
+    height: 30px;
+    width: 280px;
+    
+  }
+
+  .rowas{
+    height: 400px;
+  }
+
+  .sex-div{
+    margin-left: 30px;
+  }
+
+  .sex-input{
+    margin-left: 20px;
+    height: 30px;
+  }
+
+  .form-div-2{
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+  }
+
+  .mobile-input{
+    margin-left: 42px;
+    height: 30px;
+    width: 370px;
+  }
+
+  .govt-issued-div{
+    margin-left: 110px;
+  }
+
+  .govt-issueds-input{
+    margin-left: 54px;
+    height: 30px;
+  }
+
+  .govt-issued-input{
+    margin-left: 10px;
+    height: 30px;
+    width: 346px;
+    
+  }
+
+  .heading-01{
+    margin-top: 10px;
+    width: 100%;
+    font-weight: bold;
+  }
+
+  .form-div-3{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+  }
+
+  .guardian-select-input{
+    margin-left: 10px;
+    height: 30px;
+    width: 140px;
+  }
+
+  .guardian-input{
+    margin-left: 10px;
+    height: 30px;
+    width: 260px;
+  }
+
+  .email-div{
+    margin-left: 26px;
+   
+  }
+
+  .email-input{
+    margin-left: 20px;
+    height: 30px;
+    width: 220px;
+  }
+
+  .emergency-contact-number-div{
+    margin-left: 20px;
+
+  }
+
+  .emergency-contact-number-input{
+    margin-left: 20px;
+    height: 30px;
+  }
+
+  .form-div-4{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+  }
+
+  .address-input{
+    margin-left: 40px;
+    height: 30px;
+    width: 450px;
+  }
+
+  .state-div{
+    margin-left: 20px;
+    
+  }
+
+  .state-input{
+    margin-left: 30px;
+    height: 30px;
+  }
+
+  .city-div{
+    margin-left: 70px;
+  }
+
+  .city-input{
+    margin-left: 20px;
+    height: 30px;
+    width: 250px;
+  }
+
+  .subdiv-1{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+  }
+
+  .country-input{
+    margin-left: 34px;
+    height: 30px;
+    width: 300px;
+  }
+
+  .pincode-div{
+    margin-left: 170px;
+    
+
+  }
+
+  .pincode-input{
+    margin-left: 40px;
+    height: 30px;
+  }
+
+  .form-div-5{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+  }
+
+
+  .occupation-input{
+    margin-left: 20px;
+    height: 30px;
+  }
+
+  .religion-div{
+    margin-left: 20px;
+  }
+
+  .religion-input{
+    margin-left: 20px;
+    height: 30px;
+  }
+
+  .marital-status-div{
+    margin-left: 20px;
+  }
+
+  .marital-status-input{
+    margin-left: 20px;
+    height: 30px;
+  }
+
+  .blood-group-div{
+    margin-left: 20px;
+  }
+
+  .blood-group-input{
+    margin-left: 20px;
+    height: 30px;
+  }
+
+  .nationality-div{
+    margin-top: 20px;
+  }
+
+  .nationality-input{
+    margin-left: 20px;
+    height: 30px;
+  }
+
+  .cancel-btn{
+    margin-left: 1000px;
+    width: 140px;
+    height: 60px;
+    background-color: #FFFFFF;
+    border: 1px solid red;
+    color: red;
+  }
+
+  .submit-btn{
+    margin-left: 15px;
+    width: 140px;
+    height: 60px;
+    background-color: green;
+    color: white;
+  }
